@@ -2,7 +2,7 @@
 """
 Created on Mon Dec  3 15:11:01 2018
 
-@author: 資管碩一 李彥羲 7107029011
+@author: 7107029011
 Using python + openCV;
 To execute use shift + enter;
 """
